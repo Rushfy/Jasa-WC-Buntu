@@ -95,6 +95,14 @@ body {
   z-index: 9999;
 }
 
+.navbar-logo img.logo {
+  height: 35px;
+  width: auto;
+  margin-right: 8px;
+  vertical-align: middle;
+  object-fit: contain;
+}
+
 .navbar .navbar-logo {
   font-size: 2rem;
   font-weight: 700;
