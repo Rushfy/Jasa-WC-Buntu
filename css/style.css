@@ -102,6 +102,14 @@ body {
   font-style: italic;
 }
 
+.navbar-logo img.logo {
+  height: 32px;
+  width: auto;
+  margin-right: 8px;
+  vertical-align: middle;
+  object-fit: contain;
+}
+
 .navbar .navbar-logo span {
   color: var(--primary);
 }
